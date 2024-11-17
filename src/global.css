@@ -26,7 +26,7 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 40em;
+  width: auto;
   background: rgb(255,0,0);
   background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(102,47,61,1) 40%, rgba(9,121,72,1) 64%, rgba(0,128,3,1) 100%);
 }
