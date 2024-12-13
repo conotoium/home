@@ -63,3 +63,12 @@ footer{
     background-color: var(--my-color);
     margin-top: auto;
 }
+
+h1{
+  font-size: large;
+  font-weight: bold;
+}
+
+.link{
+  color:aqua
+}
